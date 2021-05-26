@@ -1,0 +1,11 @@
+ first_name = "Boris";
+        last_name = "Pac"
+        company = "USSFF"
+        address_1 = "5677 strett"
+        address_2 = ""
+        city = "London"
+        state = "Ca"
+        postcode ="55677"
+        country = "UK"
+        email = "address_1@ya.ru"
+        phone = "500-500"
