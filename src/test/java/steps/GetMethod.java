@@ -114,7 +114,7 @@ public class GetMethod {
 
     }
 
-    @Test  
+    @Test
     public void updateCustomer() {
         Billing billing = new Billing("Boris", "Pak", "USSr", "street 7", "", "London", "Ca", "5000", "UK", "yy@mail.ru", "233333");
         Shipping shipping = new Shipping("Boris", "Boris", "USSr", "street", "", "New City",
