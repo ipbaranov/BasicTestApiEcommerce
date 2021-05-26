@@ -19,4 +19,4 @@ public class OAuth2Filter implements AuthFilter {
         requestSpec.replaceHeader("Authorization", "Bearer " + accessToken);
         return ctx.next(requestSpec, responseSpec);
     }
-}
+}// //

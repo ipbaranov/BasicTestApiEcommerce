@@ -32,6 +32,6 @@ public class HelperMethods {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
-        return categories;
+        return categories; // //
     }
 }

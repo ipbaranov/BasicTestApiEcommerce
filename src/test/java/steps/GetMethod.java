@@ -35,7 +35,7 @@ public class GetMethod {
     public static void SetUP() {
         String accessToken = "a9arkha0qdkdz1rppvalxqenbjvwbbb9ec3zx1aa";//getAccessToken(username, password);
         auth = new OAuth2Filter(accessToken);
-hhhhh
+// //
 
     }
 

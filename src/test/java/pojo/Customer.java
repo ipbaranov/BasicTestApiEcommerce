@@ -115,7 +115,7 @@ public class Customer {
     @JsonProperty("shipping")
     public Shipping getShipping() {
         return shipping;
-    }
+    }// //
 
     @JsonProperty("shipping")
     public void setShipping(Shipping shipping) {

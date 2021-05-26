@@ -23,7 +23,7 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
         "country",
         "email",
         "phone"
-})
+})// //
 @Generated("jsonschema2pojo")
 public class Billing {
 

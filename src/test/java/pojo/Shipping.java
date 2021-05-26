@@ -6,7 +6,7 @@ import javax.annotation.processing.Generated;
 @Generated("jsonschema2pojo")
 public class Shipping {
 
-    private String firstName;
+    private String firstName;// //
     private String lastName;
     private String company;
     private String address1;
